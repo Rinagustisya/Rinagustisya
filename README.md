@@ -31,8 +31,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rinagustisya&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinagustisya&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinagustisya&show_icons=true&theme=radical)
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rinzy)](https://github.com/anuraghazra/github-readme-stats)
 ### Thanks for Visiting my GitHub Profile!
 
 ---
