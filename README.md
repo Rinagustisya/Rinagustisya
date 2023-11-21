@@ -12,26 +12,15 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootsrap" alt="Bootsrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" title="laravel"  alt="laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="php"  alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/codeigniter/codeigniter-plain-wordmark.svg" title="vsc"  alt="vsc" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" title="vsc"  alt="vsc" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="phyton"  alt="phyton" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="html"  alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="vsc"  alt="vsc" width="40" height="40"/>&nbsp;
-</div>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,java,js,laravel,mysql,nodejs,php,postgres,py,css,figma,vscode,react&perline=20)](https://skillicons.dev)
+
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rinagustisya&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinagustisya&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinagustisya&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rinagustisya&theme=tokyonight&border_radius=5)](https://git.io/streak-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinagustisya&layout=compact) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinagustisya&show_icons=true&theme=radical) <br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rinzy)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Thanks for Visiting my GitHub Profile!
 
 ---
