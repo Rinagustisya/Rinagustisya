@@ -12,7 +12,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-  [![My Skills](https://skillicons.dev/icons?i=git,github,java,js,laravel,mysql,nodejs,php,postgres,py,css,figma,vscode,react&perline=20)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,java,js,laravel,mysql,nodejs,php,postgres,py,css,figma,bootstrap,vscode,react&perline=20)](https://skillicons.dev)
 
 
 ### :fire: My Stats :
